@@ -1,0 +1,1 @@
+Normal clock show timing 
